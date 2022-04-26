@@ -1,0 +1,17 @@
+{
+  "name": "frestonbackend",
+  "version": "1.0.0",
+  "description": "Freston App",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Noura",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
